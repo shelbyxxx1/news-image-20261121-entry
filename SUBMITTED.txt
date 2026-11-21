@@ -1,0 +1,5 @@
+competition: news-image-20261121
+submission: 01a1fc65-e727-7624-8a6e-60f41587c679
+commit: 108abbe0ed9297e5a17b4df4989caacaae6249e9
+submitted: 2026-11-21T04:38:19Z
+stage: scored (owner view, 0 failed checks)
